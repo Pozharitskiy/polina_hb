@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/polina/static/css/main.966e0b6b.css",
+    "main.js": "/polina/static/js/main.d538b505.js",
+    "static/js/787.74f2ca6b.chunk.js": "/polina/static/js/787.74f2ca6b.chunk.js",
+    "static/media/background.jpg": "/polina/static/media/background.ba6966f91f6f07bf16c8.jpg",
+    "static/media/HoneyLatte.ttf": "/polina/static/media/HoneyLatte.4488efe330e87df54d8c.ttf",
+    "index.html": "/polina/index.html",
+    "main.966e0b6b.css.map": "/polina/static/css/main.966e0b6b.css.map",
+    "main.d538b505.js.map": "/polina/static/js/main.d538b505.js.map",
+    "787.74f2ca6b.chunk.js.map": "/polina/static/js/787.74f2ca6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.966e0b6b.css",
+    "static/js/main.d538b505.js"
+  ]
+}
